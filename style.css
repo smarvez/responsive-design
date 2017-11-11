@@ -6,7 +6,7 @@
   /*grid-template-columns: repeat(8, 1fr);*/
   /*grid-template-rows: repeat(28, 1fr);*/
   /*grid-gap: 1em;*/
-  border: 2px solid black;
+  /*border: 2px solid black;*/
   grid-area:
   "main-image main-image main-image main-image"
   "nav nav nav nav"
